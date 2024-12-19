@@ -5,10 +5,10 @@
       "src": "./index.js",
       "use": "@vercel/node"
     }
+    {
+  "regions": ["sfo1"]
+    }
   ],
-  {
-  "regions": ["pdx1"]
-}
   "routes": [
     
     {
